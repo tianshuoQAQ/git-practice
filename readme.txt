@@ -9,4 +9,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 
 
-dev分支add merge
+dev branch add merge
